@@ -23,7 +23,8 @@ const Header = () => {
     <div className="min-h-screen bg-banner bg-cover bg-no-repeat w-full z-0 relative">
       <div className="bg-no-repeat bg-cover z-10">
         <div className="max-w-7xl mx-auto p-10 z-20">
-          <div className="navbar text-white p-0">
+        <div className="">
+        <div className="navbar text-white p-0">
             <div className="navbar-start">
               <a className="text-3xl">Tanvir</a>
             </div>
@@ -61,6 +62,8 @@ const Header = () => {
               </ul>
             </div>
           </div>
+        </div>
+          
           <div className="text-white w-full">
             <p className="text-[120px] leading-[120px] font-light">Hello!</p>
             <p className="font-semibold"><span className="font-normal">I&apos;m</span> Tanvir Hossain</p>

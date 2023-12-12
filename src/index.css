@@ -26,3 +26,19 @@
 ::-webkit-scrollbar-track {
     background-color: #313741;
 }
+
+.section-title{
+    background: -webkit-linear-gradient(left, #3a7bd5, #00d2ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size:48px;
+
+}
+
+.resume-button{
+    box-shadow: 0 0 20px #00d2ff;
+}
+

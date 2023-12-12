@@ -9,6 +9,7 @@ export default {
       colors:{
         bgFrom: "#00d2ff",
         bgTo: "#3a7bd5",
+        mainBg: "#22252c"
       },
       backgroundImage: {
         'banner': "url('https://comeout.netlify.app/demo/default/img/header-bg.jpg')",
