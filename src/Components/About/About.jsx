@@ -9,7 +9,7 @@ import {
 const About = () => {
   return (
     <>
-      <div className="hero min-h-screen">
+      <div className="hero min-h-screen py-40">
         <div>
           <div className="max-w-7xl flex flex-col lg:flex-row-reverse lg:gap-60">
             <div className="w-1/2 relative z-0 mt-10">
