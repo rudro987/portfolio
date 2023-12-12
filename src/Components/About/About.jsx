@@ -13,7 +13,7 @@ const About = () => {
         <div>
           <div className="max-w-7xl flex flex-col lg:flex-row-reverse lg:gap-60">
             <div className="w-1/2 relative z-0 mt-10">
-              <img src="../../../public/propic.png" className="profile-image" />
+              <img src="https://i.ibb.co/wdtmLLf/propic.png" className="profile-image" />
               <button className="px-6 py-4 rounded-sm mt-8 ml-16 bg-gradient-to-r from-bgFrom to-bgTo text-sm font-bold resume-button flex gap-2 items-center">
                 <FaCloudDownloadAlt /> Download Resume
               </button>
