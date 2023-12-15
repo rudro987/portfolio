@@ -11,10 +11,10 @@ const About = () => {
     <>
       <div className="hero min-h-screen py-40">
         <div>
-          <div className="max-w-7xl flex flex-col lg:flex-row-reverse lg:gap-60">
+          <div className="max-w-7xl flex flex-col lg:flex-row-reverse lg:gap-80">
             <div className="w-1/2 relative z-0 mt-10">
               <img src="https://i.ibb.co/wdtmLLf/propic.png" className="profile-image" />
-              <button className="px-6 py-4 rounded-sm mt-8 ml-16 bg-gradient-to-r from-bgFrom to-bgTo text-sm font-bold resume-button flex gap-2 items-center">
+              <button className="px-6 py-4 rounded-sm mt-8 ml-16 bg-gradient-to-r from-bgFrom to-bgTo text-sm font-bold resume-button flex gap-2 items-center hover:bg-none hover:text-bgFrom">
                 <FaCloudDownloadAlt /> Download Resume
               </button>
               <div className="border-8 border-bgFrom h-[381px] w-[374px] absolute -left-12 -top-12 -z-10"></div>
@@ -58,7 +58,7 @@ const About = () => {
                   </a>
                 </p>
                 <p className="font-bold text-lg text-bgTo">
-                  <span className="text-bgFrom uppercase">Github: </span>
+                  <span className="text-bgFrom uppercase">LinkedIn: </span>
                   <a
                     href="https://www.linkedin.com/in/tanvir-rudro987/"
                     target="_blank"

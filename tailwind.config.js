@@ -13,6 +13,7 @@ export default {
       },
       backgroundImage: {
         'banner': "url('https://comeout.netlify.app/demo/default/img/header-bg.jpg')",
+        'workBanner': "url('https://comeout.netlify.app/demo/default/img/portfolio/port-bg.jpg')"
       },
       fontFamily: {
         openSans: ['Open Sans', 'sans-serif'],
